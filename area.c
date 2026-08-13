@@ -2,7 +2,7 @@
 
 int main() {
 
-    // ¡rea do cÌrculo
+    // √Årea do c√≠rculo
     float raio, pi = 3.14159, raioQuadrado, area;
 
     printf("Informe o valor do raio: ");
@@ -13,7 +13,7 @@ int main() {
 
     printf("A area do raio %.2f = %.2f\n", raio, area);
 
-    // ¡rea do trapÈzio
+    // √Årea do trap√©zio
     float B, b, h, calculo;
 
     printf("\nInforme o valor de B: ");
